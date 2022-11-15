@@ -7,4 +7,4 @@ Data downloaded straight from Polish Ministry of Health website, link below
 https://www.gov.pl/web/koronawirus/wykaz-zarazen-koronawirusem-sars-cov-2<br>
 The zip called '<b>Dane</b>' is data files which you need to import in order to run the code. <br>
 <br>
-I highly recommend to use Jupyter Notebook for edit.
+I highly recommend to use Jupyter Notebook for editing.
